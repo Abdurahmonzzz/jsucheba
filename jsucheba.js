@@ -28,3 +28,4 @@ for (password; password == answer;){
     background.style.backgroundColor = 'blue';
     textView.style.fontSize = '100px';
 }
+console.log(password);
