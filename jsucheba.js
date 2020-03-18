@@ -2,7 +2,7 @@
 alert("testing");
 =======
 alert('hallo');
-let password = prompt('Password?','');
+let password = progtmpt('Password?','');
 let colorBack = document.body.id = ('body_color');
 let textView = document.getElementById('text');
 let background = document.getElementById('body_color');
